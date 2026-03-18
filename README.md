@@ -1,11 +1,33 @@
-🍲 Recipe App (React + Vite)
-A simple and modern Recipe Search Web Application built using React + Vite. Users can search for recipes and view cooking details fetched from an API.
+# 🍲 Recipe App (React + Vite)
 
-🚀 Features
-🔎 Search recipes by name 🍽 View detailed recipe information ⚡ Fast performance powered by Vite 📱 Clean and responsive UI 📡 API data fetching using Axios
-🛠 Tech Stack
-React Vite Axios CSS JavaScript (ES6+)
-📂 Project Structure
+A simple and modern **Recipe Search Web Application** built using **React + Vite**.
+Users can search for recipes and view cooking details fetched from an API.
+
+---
+
+## 🚀 Features
+
+* 🔎 Search recipes by name
+* 🍽 View detailed recipe information
+* ⚡ Fast performance powered by **Vite**
+* 📱 Clean and responsive UI
+* 📡 API data fetching using **Axios**
+
+---
+
+## 🛠 Tech Stack
+
+* **React**
+* **Vite**
+* **Axios**
+* **CSS**
+* **JavaScript (ES6+)**
+
+---
+
+## 📂 Project Structure
+
+```
 Recipe/
 │
 ├── public/
@@ -20,41 +42,85 @@ Recipe/
 │
 ├── package.json
 └── README.md
-📦 Installation
+```
+
+---
+
+## 📦 Installation
+
 Clone the repository:
 
+```bash
 git clone https://github.com/Sriyokeshwar/Recipe.git
+```
+
 Navigate to the project folder:
 
+```bash
 cd Recipe
+```
+
 Install dependencies:
 
+```bash
 npm install
-▶️ Run the Project
+```
+
+---
+
+## ▶️ Run the Project
+
 Start the development server:
 
+```bash
 npm run dev
+```
+
 Then open your browser and go to:
 
+```
 http://localhost:5173
-🌐 Live Demo
-Deployed using Netlify
+```
+
+---
+
+## 🌐 Live Demo
+
+Deployed using **Netlify**
 
 🔗 https://recipe-craft-srii.netlify.app/
 
-📸 Screenshots
-<img width="1336" height="622" alt="image" src="https://github.com/user-attachments/assets/a923e401-145d-4066-8715-9e30902862db" />
-<img width="381" height="652" alt="image" src="https://github.com/user-attachments/assets/1ac962da-a23e-4dee-87aa-7de81eb33d64" />
+---
 
+## 📸 Screenshots
 
-🤝 Contributing
-Contributions are welcome! If you'd like to improve this project:
+<img width="1336" height="622" alt="Recipe App Desktop Screenshot" src="https://github.com/user-attachments/assets/0b74a831-336d-4184-8230-4904c9736708" />
 
-Fork the repository Create a new branch Make your changes Submit a Pull Request
-📄 License
-This project is open source and available under the MIT License.
+<img width="381" height="652" alt="Recipe App Mobile Screenshot" src="https://github.com/user-attachments/assets/c60cd8b4-6e2a-4795-83d8-b711f26ca37e" />
 
-👨‍💻 Author
-Sriyokeshwar S
+---
 
-GitHub Profile: 🔗 https://github.com/Sriyokeshwar
+## 🤝 Contributing
+
+Contributions are welcome!
+If you'd like to improve this project:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Sriyokeshwar S**
+
+GitHub Profile:
+🔗 https://github.com/Sriyokeshwar
