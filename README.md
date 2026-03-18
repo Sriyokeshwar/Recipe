@@ -1,119 +1,60 @@
-# 🍲 Recipe App (React + Vite)
+🍲 Recipe App (React + Vite)
+A simple and modern Recipe Search Web Application built using React + Vite. Users can search for recipes and view cooking details fetched from an API.
 
-A simple and modern **Recipe Search Web Application** built using **React + Vite**.
-Users can search for recipes and view cooking details using an API.
-
----
-
-## 🚀 Features
-
-* 🔎 Search recipes by name
-* 🍽 View recipe details
-* ⚡ Fast UI powered by **Vite**
-* 🌙 Clean and responsive design
-* 📡 API data fetching using **Axios**
-
----
-
-## 🛠 Tech Stack
-
-* **React**
-* **Vite**
-* **Axios**
-* **CSS**
-* **JavaScript (ES6+)**
-
----
-
-## 📂 Project Structure
-
-```
+🚀 Features
+🔎 Search recipes by name 🍽 View detailed recipe information ⚡ Fast performance powered by Vite 📱 Clean and responsive UI 📡 API data fetching using Axios
+🛠 Tech Stack
+React Vite Axios CSS JavaScript (ES6+)
+📂 Project Structure
 Recipe/
 │
-├── public
-├── src
-│   ├── assets
-│   ├── Comp
+├── public/
+├── src/
+│   ├── assets/
+│   ├── Comp/
 │   │   ├── Header.jsx
 │   │   └── Main_page.jsx
-│   ├── Context
+│   ├── Context/
 │   ├── App.jsx
 │   └── main.jsx
 │
 ├── package.json
 └── README.md
-```
-
----
-
-## 📦 Installation
-
+📦 Installation
 Clone the repository:
 
-```bash
 git clone https://github.com/Sriyokeshwar/Recipe.git
-```
+Navigate to the project folder:
 
-Go to the project folder:
-
-```bash
 cd Recipe
-```
-
 Install dependencies:
 
-```bash
 npm install
-```
-
----
-
-## ▶️ Run the Project
-
+▶️ Run the Project
 Start the development server:
 
-```bash
 npm run dev
-```
+Then open your browser and go to:
+
+http://localhost:5173
+🌐 Live Demo
+Deployed using Netlify
+
+🔗 https://recipe-craft-srii.netlify.app/
+
+📸 Screenshots
+<img width="1336" height="622" alt="image" src="https://github.com/user-attachments/assets/a923e401-145d-4066-8715-9e30902862db" />
+<img width="381" height="652" alt="image" src="https://github.com/user-attachments/assets/1ac962da-a23e-4dee-87aa-7de81eb33d64" />
 
 
+🤝 Contributing
+Contributions are welcome! If you'd like to improve this project:
 
----
+Fork the repository Create a new branch Make your changes Submit a Pull Request
+📄 License
+This project is open source and available under the MIT License.
 
-## 🌐 Live Demo
+👨‍💻 Author
+Sriyokeshwar S
 
-Deployed using **Netlify**
-
-```
-[https://your-netlify-link.netlify.app](https://recipe-craft-srii.netlify.app/)
-```
-
----
-
-## 📸 Screenshots
-
-<img width="1336" height="622" alt="image" src="https://github.com/user-attachments/assets/0b74a831-336d-4184-8230-4904c9736708" />
-<img width="381" height="652" alt="image" src="https://github.com/user-attachments/assets/c60cd8b4-6e2a-4795-83d8-b711f26ca37e" />
-
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the project and submit a pull request.
-
----
-
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Sriyokeshwar**
-
-GitHub:
-https://github.com/Sriyokeshwar
+GitHub Profile: 🔗 https://github.com/Sriyokeshwar
