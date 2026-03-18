@@ -76,11 +76,7 @@ Start the development server:
 npm run dev
 ```
 
-Open in browser:
 
-```
-http://localhost:5173
-```
 
 ---
 
@@ -89,14 +85,16 @@ http://localhost:5173
 Deployed using **Netlify**
 
 ```
-https://your-netlify-link.netlify.app
+[https://your-netlify-link.netlify.app](https://recipe-craft-srii.netlify.app/)
 ```
 
 ---
 
 ## 📸 Screenshots
 
-Add screenshots of your project UI here.
+<img width="1336" height="622" alt="image" src="https://github.com/user-attachments/assets/0b74a831-336d-4184-8230-4904c9736708" />
+<img width="381" height="652" alt="image" src="https://github.com/user-attachments/assets/c60cd8b4-6e2a-4795-83d8-b711f26ca37e" />
+
 
 ---
 
