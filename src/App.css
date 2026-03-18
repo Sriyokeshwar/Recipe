@@ -9,5 +9,5 @@
 
 .animate-gradient {
   background-size: 50% auto;
-  animation: gradientMove 3s linear infinite;
+  animation: gradientMove 2s linear infinite;
 }
